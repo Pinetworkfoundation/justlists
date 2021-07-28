@@ -121,6 +121,14 @@
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
+         {
+            "symbol":"Pi",
+            "address":"TVETRYrRHQuNkyPKTppzPEZ5AqvbdpqaUw",
+            "chainId":1,
+            "decimals":7,
+            "name":"PiToken",
+            "logoURI":"https://coin.top/production/upload/logo/TVETRYrRHQuNkyPKTppzPEZ5AqvbdpqaUw.pn"
+        }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
